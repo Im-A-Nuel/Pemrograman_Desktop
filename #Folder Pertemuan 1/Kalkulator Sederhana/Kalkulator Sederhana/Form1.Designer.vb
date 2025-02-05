@@ -48,6 +48,7 @@ Partial Class Form1
         txtInput = New TextBox()
         Panel1 = New Panel()
         Panel2 = New Panel()
+        btnCountBasis = New Button()
         btnCubeRoot = New Button()
         btnFactorial = New Button()
         Panel1.SuspendLayout()
@@ -306,6 +307,7 @@ Partial Class Form1
         ' 
         ' Panel2
         ' 
+        Panel2.Controls.Add(btnCountBasis)
         Panel2.Controls.Add(btnCubeRoot)
         Panel2.Controls.Add(btnFactorial)
         Panel2.Controls.Add(cmdBackspace)
@@ -337,6 +339,15 @@ Partial Class Form1
         Panel2.Size = New Size(403, 429)
         Panel2.TabIndex = 25
         ' 
+        ' btnCountBasis
+        ' 
+        btnCountBasis.Location = New Point(11, 382)
+        btnCountBasis.Name = "btnCountBasis"
+        btnCountBasis.Size = New Size(112, 34)
+        btnCountBasis.TabIndex = 25
+        btnCountBasis.Text = "Count Basis"
+        btnCountBasis.UseVisualStyleBackColor = True
+        ' 
         ' btnCubeRoot
         ' 
         btnCubeRoot.Font = New Font("Segoe UI", 11F)
@@ -349,7 +360,7 @@ Partial Class Form1
         ' 
         ' btnFactorial
         ' 
-        btnFactorial.Location = New Point(146, 382)
+        btnFactorial.Location = New Point(160, 382)
         btnFactorial.Name = "btnFactorial"
         btnFactorial.Size = New Size(112, 34)
         btnFactorial.TabIndex = 23
@@ -400,5 +411,6 @@ Partial Class Form1
     Friend WithEvents Panel2 As Panel
     Friend WithEvents btnFactorial As Button
     Friend WithEvents btnCubeRoot As Button
+    Friend WithEvents btnCountBasis As Button
 
 End Class

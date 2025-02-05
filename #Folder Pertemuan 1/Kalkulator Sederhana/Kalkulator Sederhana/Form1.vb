@@ -259,7 +259,7 @@
     End Sub
 
 
-    'button akar pangkat 3
+    ' button akar pangkat 3
     Private Sub btnCubeRoot_Click(sender As Object, e As EventArgs) Handles btnCubeRoot.Click
         If txtInput.Text.Length <> 0 Then
             tmpValue = CType(txtInput.Text, Double)
@@ -289,6 +289,9 @@
         End If
     End Sub
 
+    Private Sub btnCountBasis_Click(sender As Object, e As EventArgs) Handles btnCountBasis.Click
+        Form2.Show()
+    End Sub
 End Class
 
 
