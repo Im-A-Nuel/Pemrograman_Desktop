@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Kalkulator Sederhana"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c9a65df789dedde373d81f831de16f207dbf7e9"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e133be082efaf0cc9c5f7265a947320e911c0b2"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Kalkulator Sederhana"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Kalkulator Sederhana"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

@@ -19,7 +19,6 @@
         txtBasis10.Text = Convert.ToString(basis10, 10)
         txtBasis16.Text = Convert.ToString(basis10, 16)
 
-
     End Sub
 
 
