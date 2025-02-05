@@ -1,0 +1,16 @@
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\bin\Debug\net8.0-windows\konversi suhu.exe
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\bin\Debug\net8.0-windows\konversi suhu.deps.json
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\bin\Debug\net8.0-windows\konversi suhu.runtimeconfig.json
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\bin\Debug\net8.0-windows\konversi suhu.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\bin\Debug\net8.0-windows\konversi suhu.pdb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\obj\Debug\net8.0-windows\konversi_suhu.Form1.resources
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\obj\Debug\net8.0-windows\konversi suhu.vbproj.GenerateResource.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\obj\Debug\net8.0-windows\konversi suhu.GeneratedMSBuildEditorConfig.editorconfig
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\obj\Debug\net8.0-windows\konversi suhu.AssemblyInfoInputs.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\obj\Debug\net8.0-windows\konversi suhu.AssemblyInfo.vb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\obj\Debug\net8.0-windows\konversi suhu.vbproj.CoreCompileInputs.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\obj\Debug\net8.0-windows\konversi suhu.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\obj\Debug\net8.0-windows\refint\konversi suhu.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\obj\Debug\net8.0-windows\konversi suhu.pdb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\obj\Debug\net8.0-windows\konversi suhu.genruntimeconfig.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\konversi suhu\konversi suhu\obj\Debug\net8.0-windows\ref\konversi suhu.dll

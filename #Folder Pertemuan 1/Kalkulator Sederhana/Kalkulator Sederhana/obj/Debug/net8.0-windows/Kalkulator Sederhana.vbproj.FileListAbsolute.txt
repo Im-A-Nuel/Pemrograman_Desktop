@@ -1,0 +1,32 @@
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net8.0-windows\Kalkulator Sederhana.exe
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net8.0-windows\Kalkulator Sederhana.deps.json
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net8.0-windows\Kalkulator Sederhana.runtimeconfig.json
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net8.0-windows\Kalkulator Sederhana.dll
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net8.0-windows\Kalkulator Sederhana.pdb
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator_Sederhana.Form1.resources
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.vbproj.GenerateResource.cache
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.AssemblyInfoInputs.cache
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.AssemblyInfo.vb
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.vbproj.CoreCompileInputs.cache
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.dll
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\refint\Kalkulator Sederhana.dll
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.pdb
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.genruntimeconfig.cache
+C:\Users\MICROSOFT\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\ref\Kalkulator Sederhana.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net8.0-windows\Kalkulator Sederhana.exe
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net8.0-windows\Kalkulator Sederhana.deps.json
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net8.0-windows\Kalkulator Sederhana.runtimeconfig.json
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net8.0-windows\Kalkulator Sederhana.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net8.0-windows\Kalkulator Sederhana.pdb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator_Sederhana.Form1.resources
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.vbproj.GenerateResource.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.GeneratedMSBuildEditorConfig.editorconfig
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.AssemblyInfoInputs.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.AssemblyInfo.vb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.vbproj.CoreCompileInputs.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\refint\Kalkulator Sederhana.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.pdb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.genruntimeconfig.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\ref\Kalkulator Sederhana.dll
