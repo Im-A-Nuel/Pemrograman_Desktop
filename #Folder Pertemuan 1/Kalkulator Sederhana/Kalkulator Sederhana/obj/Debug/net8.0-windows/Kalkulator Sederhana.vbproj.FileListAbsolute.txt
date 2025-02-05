@@ -30,3 +30,4 @@ F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkula
 F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.pdb
 F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.genruntimeconfig.cache
 F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\ref\Kalkulator Sederhana.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 1\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net8.0-windows\Kalkulator Sederhana.sourcelink.json

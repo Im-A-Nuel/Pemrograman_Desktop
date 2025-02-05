@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 1\\Kalkulator Sederhana\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52F3C691-5FDC-47C0-9843-C311DC2740C8}|Kalkulator Sederhana\\Kalkulator Sederhana.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 1\\kalkulator sederhana\\kalkulator sederhana\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{52F3C691-5FDC-47C0-9843-C311DC2740C8}|Kalkulator Sederhana\\Kalkulator Sederhana.vbproj|solutionrelative:kalkulator sederhana\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{52F3C691-5FDC-47C0-9843-C311DC2740C8}|Kalkulator Sederhana\\Kalkulator Sederhana.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 1\\kalkulator sederhana\\kalkulator sederhana\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{52F3C691-5FDC-47C0-9843-C311DC2740C8}|Kalkulator Sederhana\\Kalkulator Sederhana.vbproj|solutionrelative:kalkulator sederhana\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F3C691-5FDC-47C0-9843-C311DC2740C8}|Kalkulator Sederhana\\Kalkulator Sederhana.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 1\\kalkulator sederhana\\kalkulator sederhana\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{52F3C691-5FDC-47C0-9843-C311DC2740C8}|Kalkulator Sederhana\\Kalkulator Sederhana.vbproj|solutionrelative:kalkulator sederhana\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.vb",
+              "Title": "Form1.vb [Design]",
               "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 1\\Kalkulator Sederhana\\Kalkulator Sederhana\\Form1.vb",
               "RelativeDocumentMoniker": "Kalkulator Sederhana\\Form1.vb",
-              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 1\\Kalkulator Sederhana\\Kalkulator Sederhana\\Form1.vb",
-              "RelativeToolTip": "Kalkulator Sederhana\\Form1.vb",
-              "ViewState": "AgIAAAYBAAAAAAAAAAAmwAwBAAAOAAAAAAAAAA==",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 1\\Kalkulator Sederhana\\Kalkulator Sederhana\\Form1.vb [Design]*",
+              "RelativeToolTip": "Kalkulator Sederhana\\Form1.vb [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-02-04T16:15:21.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T16:15:11.468Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.vb [Design]",
+              "Title": "Form1.vb",
               "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 1\\Kalkulator Sederhana\\Kalkulator Sederhana\\Form1.vb",
               "RelativeDocumentMoniker": "Kalkulator Sederhana\\Form1.vb",
-              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 1\\Kalkulator Sederhana\\Kalkulator Sederhana\\Form1.vb [Design]",
-              "RelativeToolTip": "Kalkulator Sederhana\\Form1.vb [Design]",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 1\\Kalkulator Sederhana\\Kalkulator Sederhana\\Form1.vb*",
+              "RelativeToolTip": "Kalkulator Sederhana\\Form1.vb*",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-02-04T16:15:11.468Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-04T16:15:21.942Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -339,11 +339,12 @@ Partial Class Form1
         ' 
         ' btnCubeRoot
         ' 
+        btnCubeRoot.Font = New Font("Segoe UI", 11F)
         btnCubeRoot.Location = New Point(278, 382)
         btnCubeRoot.Name = "btnCubeRoot"
         btnCubeRoot.Size = New Size(112, 34)
         btnCubeRoot.TabIndex = 24
-        btnCubeRoot.Text = "3!"
+        btnCubeRoot.Text = "∛x"
         btnCubeRoot.UseVisualStyleBackColor = True
         ' 
         ' btnFactorial
