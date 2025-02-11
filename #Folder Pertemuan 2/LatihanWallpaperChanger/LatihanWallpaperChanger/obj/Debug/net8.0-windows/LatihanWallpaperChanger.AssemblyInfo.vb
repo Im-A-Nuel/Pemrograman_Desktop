@@ -13,12 +13,12 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("Kalkulator Sederhana"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("LatihanWallpaperChanger"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74005a661dbcd07446103efad4fbb984312d76ed"),  _
- Assembly: System.Reflection.AssemblyProductAttribute("Kalkulator Sederhana"),  _
- Assembly: System.Reflection.AssemblyTitleAttribute("Kalkulator Sederhana"),  _
+ Assembly: System.Reflection.AssemblyProductAttribute("LatihanWallpaperChanger"),  _
+ Assembly: System.Reflection.AssemblyTitleAttribute("LatihanWallpaperChanger"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
  Assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0"),  _
  Assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")> 

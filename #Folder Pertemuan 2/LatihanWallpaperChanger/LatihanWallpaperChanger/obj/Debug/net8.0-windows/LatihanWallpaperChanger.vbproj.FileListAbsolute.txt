@@ -1,0 +1,33 @@
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\bin\Debug\net8.0-windows\LatihanWallpaperChanger.exe
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\bin\Debug\net8.0-windows\LatihanWallpaperChanger.deps.json
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\bin\Debug\net8.0-windows\LatihanWallpaperChanger.runtimeconfig.json
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\bin\Debug\net8.0-windows\LatihanWallpaperChanger.dll
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\bin\Debug\net8.0-windows\LatihanWallpaperChanger.pdb
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.Form1.resources
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.vbproj.GenerateResource.cache
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.AssemblyInfoInputs.cache
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.AssemblyInfo.vb
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.vbproj.CoreCompileInputs.cache
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.dll
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\refint\LatihanWallpaperChanger.dll
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.pdb
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.genruntimeconfig.cache
+C:\Users\MICROSOFT\source\repos\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\ref\LatihanWallpaperChanger.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\bin\Debug\net8.0-windows\LatihanWallpaperChanger.exe
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\bin\Debug\net8.0-windows\LatihanWallpaperChanger.deps.json
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\bin\Debug\net8.0-windows\LatihanWallpaperChanger.runtimeconfig.json
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\bin\Debug\net8.0-windows\LatihanWallpaperChanger.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\bin\Debug\net8.0-windows\LatihanWallpaperChanger.pdb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.Form1.resources
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.vbproj.GenerateResource.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.GeneratedMSBuildEditorConfig.editorconfig
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.AssemblyInfoInputs.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.AssemblyInfo.vb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.vbproj.CoreCompileInputs.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.sourcelink.json
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\refint\LatihanWallpaperChanger.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.pdb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\LatihanWallpaperChanger.genruntimeconfig.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 2\LatihanWallpaperChanger\LatihanWallpaperChanger\obj\Debug\net8.0-windows\ref\LatihanWallpaperChanger.dll
