@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aplikasi Reservasi Tempat Duduk Restoran/1.0.0": {
+        "runtime": {
+          "Aplikasi Reservasi Tempat Duduk Restoran.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplikasi Reservasi Tempat Duduk Restoran/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

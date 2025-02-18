@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 2\\LatihanWallpaperChanger\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CE8EC77A-D566-4480-8406-729B71E6B4D1}|LatihanWallpaperChanger\\LatihanWallpaperChanger.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 2\\latihanwallpaperchanger\\latihanwallpaperchanger\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CE8EC77A-D566-4480-8406-729B71E6B4D1}|LatihanWallpaperChanger\\LatihanWallpaperChanger.vbproj|solutionrelative:latihanwallpaperchanger\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE8EC77A-D566-4480-8406-729B71E6B4D1}|LatihanWallpaperChanger\\LatihanWallpaperChanger.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 2\\latihanwallpaperchanger\\latihanwallpaperchanger\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{CE8EC77A-D566-4480-8406-729B71E6B4D1}|LatihanWallpaperChanger\\LatihanWallpaperChanger.vbproj|solutionrelative:latihanwallpaperchanger\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,31 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.vb",
-              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 2\\LatihanWallpaperChanger\\LatihanWallpaperChanger\\Form1.vb",
-              "RelativeDocumentMoniker": "LatihanWallpaperChanger\\Form1.vb",
-              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 2\\LatihanWallpaperChanger\\LatihanWallpaperChanger\\Form1.vb",
-              "RelativeToolTip": "LatihanWallpaperChanger\\Form1.vb",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-02-11T04:07:08.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.vb [Design]",
-              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 2\\LatihanWallpaperChanger\\LatihanWallpaperChanger\\Form1.vb",
-              "RelativeDocumentMoniker": "LatihanWallpaperChanger\\Form1.vb",
-              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 2\\LatihanWallpaperChanger\\LatihanWallpaperChanger\\Form1.vb [Design]",
-              "RelativeToolTip": "LatihanWallpaperChanger\\Form1.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-02-11T04:07:05.224Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
