@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 3\\Aplikasi Reservasi Tempat Duduk Restoran\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{50F360B1-64A7-4CB3-86C4-47E562996D3F}|Aplikasi Reservasi Tempat Duduk Restoran\\Aplikasi Reservasi Tempat Duduk Restoran.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 3\\aplikasi reservasi tempat duduk restoran\\aplikasi reservasi tempat duduk restoran\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{50F360B1-64A7-4CB3-86C4-47E562996D3F}|Aplikasi Reservasi Tempat Duduk Restoran\\Aplikasi Reservasi Tempat Duduk Restoran.vbproj|solutionrelative:aplikasi reservasi tempat duduk restoran\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50F360B1-64A7-4CB3-86C4-47E562996D3F}|Aplikasi Reservasi Tempat Duduk Restoran\\Aplikasi Reservasi Tempat Duduk Restoran.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 3\\aplikasi reservasi tempat duduk restoran\\aplikasi reservasi tempat duduk restoran\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{50F360B1-64A7-4CB3-86C4-47E562996D3F}|Aplikasi Reservasi Tempat Duduk Restoran\\Aplikasi Reservasi Tempat Duduk Restoran.vbproj|solutionrelative:aplikasi reservasi tempat duduk restoran\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50F360B1-64A7-4CB3-86C4-47E562996D3F}|Aplikasi Reservasi Tempat Duduk Restoran\\Aplikasi Reservasi Tempat Duduk Restoran.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 3\\aplikasi reservasi tempat duduk restoran\\aplikasi reservasi tempat duduk restoran\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{50F360B1-64A7-4CB3-86C4-47E562996D3F}|Aplikasi Reservasi Tempat Duduk Restoran\\Aplikasi Reservasi Tempat Duduk Restoran.vbproj|solutionrelative:aplikasi reservasi tempat duduk restoran\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50F360B1-64A7-4CB3-86C4-47E562996D3F}|Aplikasi Reservasi Tempat Duduk Restoran\\Aplikasi Reservasi Tempat Duduk Restoran.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 3\\aplikasi reservasi tempat duduk restoran\\aplikasi reservasi tempat duduk restoran\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{50F360B1-64A7-4CB3-86C4-47E562996D3F}|Aplikasi Reservasi Tempat Duduk Restoran\\Aplikasi Reservasi Tempat Duduk Restoran.vbproj|solutionrelative:aplikasi reservasi tempat duduk restoran\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50F360B1-64A7-4CB3-86C4-47E562996D3F}|Aplikasi Reservasi Tempat Duduk Restoran\\Aplikasi Reservasi Tempat Duduk Restoran.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 3\\aplikasi reservasi tempat duduk restoran\\aplikasi reservasi tempat duduk restoran\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 3\\Aplikasi Reservasi Tempat Duduk Restoran\\Aplikasi Reservasi Tempat Duduk Restoran\\Form1.vb",
               "RelativeDocumentMoniker": "Aplikasi Reservasi Tempat Duduk Restoran\\Form1.vb",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form2.vb",
               "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 3\\Aplikasi Reservasi Tempat Duduk Restoran\\Aplikasi Reservasi Tempat Duduk Restoran\\Form2.vb",
               "RelativeDocumentMoniker": "Aplikasi Reservasi Tempat Duduk Restoran\\Form2.vb",
@@ -55,11 +55,12 @@
               "RelativeToolTip": "Aplikasi Reservasi Tempat Duduk Restoran\\Form2.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-02-18T02:47:57.288Z"
+              "WhenOpened": "2025-02-18T02:47:57.288Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form2.vb [Design]",
               "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 3\\Aplikasi Reservasi Tempat Duduk Restoran\\Aplikasi Reservasi Tempat Duduk Restoran\\Form2.vb",
               "RelativeDocumentMoniker": "Aplikasi Reservasi Tempat Duduk Restoran\\Form2.vb",

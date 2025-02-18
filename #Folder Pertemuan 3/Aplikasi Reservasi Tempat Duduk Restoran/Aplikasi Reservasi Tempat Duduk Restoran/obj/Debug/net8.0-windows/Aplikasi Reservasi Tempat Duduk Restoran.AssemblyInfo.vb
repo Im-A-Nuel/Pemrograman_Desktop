@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Aplikasi Reservasi Tempat Duduk Restoran"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0f4df974d8dee27fed3cbdd88f9aacf182f9ec2"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff2afaccb1197c68637340647da7d4f103b42e91"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Aplikasi Reservasi Tempat Duduk Restoran"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Aplikasi Reservasi Tempat Duduk Restoran"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
