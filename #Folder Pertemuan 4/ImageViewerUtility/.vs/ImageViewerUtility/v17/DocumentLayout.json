@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 4\\ImageViewerUtility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{622246A1-0F86-42D7-B418-4691FBFC19E6}|ImageViewerUtility\\ImageViewerUtility.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 4\\imageviewerutility\\imageviewerutility\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{622246A1-0F86-42D7-B418-4691FBFC19E6}|ImageViewerUtility\\ImageViewerUtility.vbproj|solutionrelative:imageviewerutility\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622246A1-0F86-42D7-B418-4691FBFC19E6}|ImageViewerUtility\\ImageViewerUtility.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 4\\imageviewerutility\\imageviewerutility\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{622246A1-0F86-42D7-B418-4691FBFC19E6}|ImageViewerUtility\\ImageViewerUtility.vbproj|solutionrelative:imageviewerutility\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 4\\ImageViewerUtility\\ImageViewerUtility\\Form1.vb",
+              "RelativeDocumentMoniker": "ImageViewerUtility\\Form1.vb",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 4\\ImageViewerUtility\\ImageViewerUtility\\Form1.vb",
+              "RelativeToolTip": "ImageViewerUtility\\Form1.vb",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAJ8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T02:56:20.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 4\\ImageViewerUtility\\ImageViewerUtility\\Form1.vb",
+              "RelativeDocumentMoniker": "ImageViewerUtility\\Form1.vb",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 4\\ImageViewerUtility\\ImageViewerUtility\\Form1.vb [Design]",
+              "RelativeToolTip": "ImageViewerUtility\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T01:58:59.274Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
