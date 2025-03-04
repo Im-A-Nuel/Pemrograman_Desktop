@@ -61,6 +61,8 @@ Partial Class Form1
         Label1 = New Label()
         lblInfo = New Label()
         tvDrive = New TreeView()
+        DeleteToolStripMenuItem = New ToolStripMenuItem()
+        RenameToolStripMenuItem = New ToolStripMenuItem()
         StatusStrip1.SuspendLayout()
         MenuStrip1.SuspendLayout()
         ContextMenuStrip1.SuspendLayout()
@@ -171,9 +173,9 @@ Partial Class Form1
         ' ContextMenuStrip1
         ' 
         ContextMenuStrip1.ImageScalingSize = New Size(20, 20)
-        ContextMenuStrip1.Items.AddRange(New ToolStripItem() {ToolStripMenuItem3, ToolStripMenuItem4, ToolStripMenuItem5, ToolStripMenuItem6})
+        ContextMenuStrip1.Items.AddRange(New ToolStripItem() {ToolStripMenuItem3, ToolStripMenuItem4, ToolStripMenuItem5, ToolStripMenuItem6, DeleteToolStripMenuItem, RenameToolStripMenuItem})
         ContextMenuStrip1.Name = "ContextMenuStrip1"
-        ContextMenuStrip1.Size = New Size(281, 100)
+        ContextMenuStrip1.Size = New Size(281, 176)
         ' 
         ' ToolStripMenuItem3
         ' 
@@ -341,6 +343,18 @@ Partial Class Form1
         tvDrive.Size = New Size(255, 191)
         tvDrive.TabIndex = 0
         ' 
+        ' DeleteToolStripMenuItem
+        ' 
+        DeleteToolStripMenuItem.Name = "DeleteToolStripMenuItem"
+        DeleteToolStripMenuItem.Size = New Size(280, 24)
+        DeleteToolStripMenuItem.Text = "Delete"
+        ' 
+        ' RenameToolStripMenuItem
+        ' 
+        RenameToolStripMenuItem.Name = "RenameToolStripMenuItem"
+        RenameToolStripMenuItem.Size = New Size(280, 24)
+        RenameToolStripMenuItem.Text = "Rename"
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
@@ -405,5 +419,7 @@ Partial Class Form1
     Friend WithEvents ColumnHeader8 As ColumnHeader
     Friend WithEvents ColumnHeader9 As ColumnHeader
     Friend WithEvents Label3 As Label
+    Friend WithEvents DeleteToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents RenameToolStripMenuItem As ToolStripMenuItem
 
 End Class

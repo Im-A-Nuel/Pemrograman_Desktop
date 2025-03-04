@@ -1,6 +1,7 @@
 ﻿Imports System.IO
 Imports System.Net.WebRequestMethods
 Imports System.Reflection.Emit
+Imports File = System.IO.File
 
 Public Class Form1
 
@@ -158,7 +159,7 @@ Public Class Form1
 
     Private Sub GetDrives()
 
-        tvDrive.nodes.clear()
+        tvDrive.Nodes.Clear()
         For Each Drive In DriveInfo.GetDrives
 
             If (Drive.IsReady) Then
@@ -295,4 +296,55 @@ Public Class Form1
             End Using
         End If
     End Sub
+
+
+    Private Sub DeleteToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles DeleteToolStripMenuItem.Click
+        If lvFile.SelectedItems.Count > 0 Then
+            Dim selectedItem As ListViewItem = lvFile.SelectedItems(0)
+            Dim filePath As String = selectedItem.Tag.ToString()
+
+            Dim result As DialogResult = MessageBox.Show("Apakah Anda yakin ingin menghapus file:" & vbCrLf & filePath, "Konfirmasi Hapus File", MessageBoxButtons.YesNo, MessageBoxIcon.Warning)
+
+            If result = DialogResult.Yes Then
+                Try
+                    File.Delete(filePath)
+
+                    lvFile.Items.Remove(selectedItem)
+
+                    MessageBox.Show("File berhasil dihapus.", "Berhasil", MessageBoxButtons.OK, MessageBoxIcon.Information)
+                Catch ex As Exception
+                    MessageBox.Show("Gagal menghapus file: " & ex.Message, "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                End Try
+            End If
+        End If
+    End Sub
+
+    Private Sub RenameToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles RenameToolStripMenuItem.Click
+        If lvFile.SelectedItems.Count > 0 Then
+            Dim selectedItem As ListViewItem = lvFile.SelectedItems(0)
+            Dim oldFilePath As String = selectedItem.Tag.ToString()
+            Dim oldFileName As String = Path.GetFileName(oldFilePath)
+
+            Dim newFileName As String = InputBox("Masukkan nama file baru:", "Ganti Nama File", oldFileName)
+
+            If Not String.IsNullOrWhiteSpace(newFileName) AndAlso newFileName <> oldFileName Then
+                Try
+                    Dim newFilePath As String = Path.Combine(Path.GetDirectoryName(oldFilePath), newFileName)
+
+                    File.Move(oldFilePath, newFilePath)
+
+                    selectedItem.SubItems(0).Text = Path.GetFileNameWithoutExtension(newFileName)
+                    selectedItem.SubItems(2).Text = Path.GetExtension(newFileName)
+                    selectedItem.SubItems(7).Text = newFilePath
+                    selectedItem.Tag = newFilePath
+
+                    MessageBox.Show("File berhasil diganti nama.", "Berhasil", MessageBoxButtons.OK, MessageBoxIcon.Information)
+
+                Catch ex As Exception
+                    MessageBox.Show("Gagal mengganti nama file: " & ex.Message, "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                End Try
+            End If
+        End If
+    End Sub
+
 End Class
