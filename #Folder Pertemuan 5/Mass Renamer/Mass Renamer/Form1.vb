@@ -16,6 +16,7 @@ Public Class Form1
         lvPreview.Items.Clear()
         lvPreview.View = View.Details
         lvPreview.BeginUpdate()
+
         Dim hasil As String() = Directory.GetFiles(txtPath.Text, txtExt.Text, SearchOption.TopDirectoryOnly)
         arrFile.Clear()
         arrFile2.Clear()
@@ -88,9 +89,7 @@ Public Class Form1
     End Sub
 
     Function ListViewContainsDuplicates(ByVal listView As ListView, ByVal subItemIndex As Integer) As Boolean
-        Dim DistinctCount As Integer = (From Item In listView.Items
-                                        Select CType(Item, ListViewItem).SubItems(subItemIndex).Text
-                                        Distinct).Count
+        Dim DistinctCount As Integer = (From Item In listView.Items Select CType(Item, ListViewItem).SubItems(subItemIndex).Text Distinct).Count
         Return DistinctCount <> listView.Items.Count
     End Function
 
@@ -105,8 +104,7 @@ Public Class Form1
                 s2 = " "
             End If
             For i As Integer = 0 To arrFile2.Count - 1
-                arrFile2(i) =
-                Path.GetFileNameWithoutExtension(arrFile2(i)).Replace(s1, s2)
+                arrFile2(i) = Path.GetFileNameWithoutExtension(arrFile2(i)).Replace(s1, s2)
                 lvPreview.Items.Item(i).Text = Trim(arrFile2(i))
             Next
         ElseIf mode = "R" Then 'replace with F 
@@ -127,10 +125,10 @@ Public Class Form1
                 lvPreview.Items.Item(i).Text = Trim(arrFile2(i))
             Next
         ElseIf mode = "LC" Then 'Left crop n char F 
-            If (t.Text <> "" Or Val(t.Text) > 0) Then
+            If (txtLeftCropNCharF.Text <> "" Or Val(txtLeftCropNCharF.Text) > 0) Then
                 For i As Integer = 0 To arrFile2.Count - 1
                     Dim x As String = Path.GetFileNameWithoutExtension(arrFile2(i))
-                    arrFile2(i) = x.Substring(t.Text)
+                    arrFile2(i) = x.Substring(txtLeftCropNCharF.Text)
                     lvPreview.Items.Item(i).Text = Trim(arrFile2(i))
                 Next
             Else
@@ -293,10 +291,10 @@ Public Class Form1
     Private Sub rbLeftCropNCharF_CheckedChanged(sender As System.Object, e As System.EventArgs) Handles rbLeftCropNCharF.CheckedChanged, rbLeftCropNCharF.Click
         If rbLeftCropNCharF.Checked Then
             mode = "LC"
-            t.ReadOnly = False
+            txtLeftCropNCharF.ReadOnly = False
         Else
             mode = "X"
-            t.ReadOnly = True
+            txtLeftCropNCharF.ReadOnly = True
         End If
     End Sub
 

@@ -151,6 +151,7 @@ Partial Class Form1
         ' lvOri
         ' 
         lvOri.Columns.AddRange(New ColumnHeader() {chFileName, chExtension, chSize, chAttributes, chCreated, chAccessed, chModified})
+        lvOri.GridLines = True
         lvOri.Location = New Point(23, 89)
         lvOri.Name = "lvOri"
         lvOri.Size = New Size(453, 289)
@@ -226,7 +227,7 @@ Partial Class Form1
         ' cbCaseF
         ' 
         cbCaseF.FormattingEnabled = True
-        cbCaseF.Items.AddRange(New Object() {"lowercase", "UPPERCASE"})
+        cbCaseF.Items.AddRange(New Object() {"lowercase", "UPPERCASE", "No Change"})
         cbCaseF.Location = New Point(528, 5)
         cbCaseF.Name = "cbCaseF"
         cbCaseF.Size = New Size(151, 28)
@@ -681,6 +682,7 @@ Partial Class Form1
         ' lvPreview
         ' 
         lvPreview.Columns.AddRange(New ColumnHeader() {chFileName2, chExtension2, chSize2, chAttributes2, chCreated2, chAccessed2, chModified2})
+        lvPreview.GridLines = True
         lvPreview.Location = New Point(502, 89)
         lvPreview.Name = "lvPreview"
         lvPreview.Size = New Size(462, 289)
@@ -740,7 +742,7 @@ Partial Class Form1
         Controls.Add(btnPath)
         Controls.Add(txtPath)
         Controls.Add(lblPath)
-        MinimizeBox = False
+        MaximizeBox = False
         Name = "Form1"
         StartPosition = FormStartPosition.CenterScreen
         Text = "Mass Renamer"

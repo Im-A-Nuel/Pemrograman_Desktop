@@ -53,7 +53,6 @@ Partial Class Form1
         ColumnHeader1 = New ColumnHeader()
         ColumnHeader2 = New ColumnHeader()
         ColumnHeader3 = New ColumnHeader()
-        ColumnHeader4 = New ColumnHeader()
         ColumnHeader5 = New ColumnHeader()
         ColumnHeader6 = New ColumnHeader()
         ColumnHeader7 = New ColumnHeader()
@@ -109,7 +108,7 @@ Partial Class Form1
         FileToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {ExportFileListToTextFileToolStripMenuItem, RefreshFolderToolStripMenuItem, ToolStripMenuItem1, ExitToolStripMenuItem})
         FileToolStripMenuItem.Name = "FileToolStripMenuItem"
         FileToolStripMenuItem.Size = New Size(46, 24)
-        FileToolStripMenuItem.Text = "File"
+        FileToolStripMenuItem.Text = "&File"
         ' 
         ' ExportFileListToTextFileToolStripMenuItem
         ' 
@@ -139,7 +138,7 @@ Partial Class Form1
         HelpToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {HelpToolStripMenuItem1, ToolStripMenuItem2, AboutToolStripMenuItem})
         HelpToolStripMenuItem.Name = "HelpToolStripMenuItem"
         HelpToolStripMenuItem.Size = New Size(55, 24)
-        HelpToolStripMenuItem.Text = "Help"
+        HelpToolStripMenuItem.Text = "&Help"
         ' 
         ' HelpToolStripMenuItem1
         ' 
@@ -271,7 +270,7 @@ Partial Class Form1
         ' 
         ' lvFile
         ' 
-        lvFile.Columns.AddRange(New ColumnHeader() {ColumnHeader1, ColumnHeader2, ColumnHeader3, ColumnHeader4, ColumnHeader5, ColumnHeader6, ColumnHeader7, ColumnHeader8, ColumnHeader9})
+        lvFile.Columns.AddRange(New ColumnHeader() {ColumnHeader1, ColumnHeader2, ColumnHeader3, ColumnHeader5, ColumnHeader6, ColumnHeader7, ColumnHeader8, ColumnHeader9})
         lvFile.ContextMenuStrip = ContextMenuStrip1
         lvFile.GridLines = True
         lvFile.Location = New Point(264, 3)
@@ -292,11 +291,7 @@ Partial Class Form1
         ' 
         ' ColumnHeader3
         ' 
-        ColumnHeader3.Text = "File"
-        ' 
-        ' ColumnHeader4
-        ' 
-        ColumnHeader4.Text = "Size"
+        ColumnHeader3.Text = "File Size"
         ' 
         ' ColumnHeader5
         ' 
@@ -338,8 +333,11 @@ Partial Class Form1
         ' 
         ' tvDrive
         ' 
+        tvDrive.ImageIndex = 0
+        tvDrive.ImageList = ImageList1
         tvDrive.Location = New Point(3, 3)
         tvDrive.Name = "tvDrive"
+        tvDrive.SelectedImageIndex = 0
         tvDrive.Size = New Size(255, 191)
         tvDrive.TabIndex = 0
         ' 
@@ -401,7 +399,6 @@ Partial Class Form1
     Friend WithEvents ColumnHeader1 As ColumnHeader
     Friend WithEvents ColumnHeader2 As ColumnHeader
     Friend WithEvents ColumnHeader3 As ColumnHeader
-    Friend WithEvents ColumnHeader4 As ColumnHeader
     Friend WithEvents ColumnHeader5 As ColumnHeader
     Friend WithEvents ColumnHeader6 As ColumnHeader
     Friend WithEvents ColumnHeader7 As ColumnHeader
