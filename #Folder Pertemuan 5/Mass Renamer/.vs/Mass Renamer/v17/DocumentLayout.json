@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 5\\Mass Renamer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DF9FDB-F29B-4151-8F6D-4A27887D7724}|Mass Renamer\\Mass Renamer.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 5\\mass renamer\\mass renamer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C7DF9FDB-F29B-4151-8F6D-4A27887D7724}|Mass Renamer\\Mass Renamer.vbproj|solutionrelative:mass renamer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DF9FDB-F29B-4151-8F6D-4A27887D7724}|Mass Renamer\\Mass Renamer.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 5\\mass renamer\\mass renamer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C7DF9FDB-F29B-4151-8F6D-4A27887D7724}|Mass Renamer\\Mass Renamer.vbproj|solutionrelative:mass renamer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 5\\Mass Renamer\\Mass Renamer\\Form1.vb",
+              "RelativeDocumentMoniker": "Mass Renamer\\Form1.vb",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 5\\Mass Renamer\\Mass Renamer\\Form1.vb",
+              "RelativeToolTip": "Mass Renamer\\Form1.vb",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAlwGgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-03T14:03:02.169Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 5\\Mass Renamer\\Mass Renamer\\Form1.vb",
+              "RelativeDocumentMoniker": "Mass Renamer\\Form1.vb",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 5\\Mass Renamer\\Mass Renamer\\Form1.vb [Design]",
+              "RelativeToolTip": "Mass Renamer\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-03T13:40:44.622Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

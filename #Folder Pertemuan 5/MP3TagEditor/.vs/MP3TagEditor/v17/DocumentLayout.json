@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 5\\MP3TagEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{404CFD70-E616-471F-9A84-D03F67A85B6B}|MP3TagEditor\\MP3TagEditor.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 5\\mp3tageditor\\mp3tageditor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{404CFD70-E616-471F-9A84-D03F67A85B6B}|MP3TagEditor\\MP3TagEditor.vbproj|solutionrelative:mp3tageditor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404CFD70-E616-471F-9A84-D03F67A85B6B}|MP3TagEditor\\MP3TagEditor.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 5\\mp3tageditor\\mp3tageditor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{404CFD70-E616-471F-9A84-D03F67A85B6B}|MP3TagEditor\\MP3TagEditor.vbproj|solutionrelative:mp3tageditor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 5\\MP3TagEditor\\MP3TagEditor\\Form1.vb",
+              "RelativeDocumentMoniker": "MP3TagEditor\\Form1.vb",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 5\\MP3TagEditor\\MP3TagEditor\\Form1.vb",
+              "RelativeToolTip": "MP3TagEditor\\Form1.vb",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAwKIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-04T02:48:45.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 5\\MP3TagEditor\\MP3TagEditor\\Form1.vb",
+              "RelativeDocumentMoniker": "MP3TagEditor\\Form1.vb",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 5\\MP3TagEditor\\MP3TagEditor\\Form1.vb [Design]",
+              "RelativeToolTip": "MP3TagEditor\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-04T02:14:43.608Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.exe
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.deps.json
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.runtimeconfig.json
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.dll
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.pdb
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass_Renamer.Form1.resources
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.vbproj.GenerateResource.cache
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.GeneratedMSBuildEditorConfig.editorconfig
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.AssemblyInfoInputs.cache
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.AssemblyInfo.vb
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.vbproj.CoreCompileInputs.cache
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.dll
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\refint\Mass Renamer.dll
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.pdb
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.genruntimeconfig.cache
+F:\KULIAH SEM 6\Prog Desk\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\ref\Mass Renamer.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.exe
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.deps.json
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.runtimeconfig.json
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.pdb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass_Renamer.Form1.resources
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.vbproj.GenerateResource.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.GeneratedMSBuildEditorConfig.editorconfig
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.AssemblyInfoInputs.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.AssemblyInfo.vb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.vbproj.CoreCompileInputs.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.sourcelink.json
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\refint\Mass Renamer.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.pdb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.genruntimeconfig.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\ref\Mass Renamer.dll
