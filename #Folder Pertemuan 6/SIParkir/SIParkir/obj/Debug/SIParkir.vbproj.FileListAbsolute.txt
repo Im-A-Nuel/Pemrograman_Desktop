@@ -30,3 +30,10 @@ F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\
 F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.exe
 F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.xml
 F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.pdb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\bin\Debug\MySql.Data.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\bin\Debug\System.Memory.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\bin\Debug\System.Numerics.Vectors.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\bin\Debug\System.Buffers.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\bin\Debug\MySql.Data.xml
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.vbproj.Up2Date

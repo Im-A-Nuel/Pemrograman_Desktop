@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 7\\siparkir\\siparkir\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 7\\siparkir\\siparkir\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 7\\siparkir\\siparkir\\langganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\langganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 7\\siparkir\\siparkir\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|f:\\kuliah sem 6\\prog desk\\tugas\\#folder pertemuan 7\\siparkir\\siparkir\\langganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\langganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\siparkir\\moduledb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\moduledb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\siparkir\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\siparkir\\profil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EEB678F1-0BAC-4BA9-BE7E-E5C3BBE7FEAC}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\profil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.vb",
+              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\main.vb",
+              "RelativeDocumentMoniker": "SIParkir\\main.vb",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\main.vb",
+              "RelativeToolTip": "SIParkir\\main.vb",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAmwLwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T14:12:48.294Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.vb",
+              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\login.vb",
+              "RelativeDocumentMoniker": "SIParkir\\login.vb",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\login.vb",
+              "RelativeToolTip": "SIParkir\\login.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T14:51:30.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "langganan.vb",
+              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\langganan.vb",
+              "RelativeDocumentMoniker": "SIParkir\\langganan.vb",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\langganan.vb",
+              "RelativeToolTip": "SIParkir\\langganan.vb",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T14:20:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "langganan.vb [Design]",
+              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\langganan.vb",
+              "RelativeDocumentMoniker": "SIParkir\\langganan.vb",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\langganan.vb [Design]",
+              "RelativeToolTip": "SIParkir\\langganan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T14:14:21.517Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.vb [Design]",
+              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\main.vb",
+              "RelativeDocumentMoniker": "SIParkir\\main.vb",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\main.vb [Design]",
+              "RelativeToolTip": "SIParkir\\main.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T14:12:44.053Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "profil.vb",
+              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\profil.vb",
+              "RelativeDocumentMoniker": "SIParkir\\profil.vb",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\profil.vb",
+              "RelativeToolTip": "SIParkir\\profil.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T01:22:52.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.vb [Design]",
+              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\login.vb",
+              "RelativeDocumentMoniker": "SIParkir\\login.vb",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\login.vb [Design]",
+              "RelativeToolTip": "SIParkir\\login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T01:01:10.843Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModuleDB.vb",
+              "DocumentMoniker": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\ModuleDB.vb",
+              "RelativeDocumentMoniker": "SIParkir\\ModuleDB.vb",
+              "ToolTip": "F:\\KULIAH SEM 6\\Prog Desk\\Tugas\\#Folder Pertemuan 7\\SIParkir\\SIParkir\\ModuleDB.vb",
+              "RelativeToolTip": "SIParkir\\ModuleDB.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-18T00:57:43.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

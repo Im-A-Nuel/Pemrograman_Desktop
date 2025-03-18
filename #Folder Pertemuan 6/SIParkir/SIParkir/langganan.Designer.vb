@@ -244,6 +244,7 @@ Partial Class langganan
         Me.Controls.Add(Me.txtNamaPelanggan)
         Me.Controls.Add(Me.lblNoPlat)
         Me.Controls.Add(Me.lblNama)
+        Me.MaximizeBox = False
         Me.Name = "langganan"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "SIParkir"
