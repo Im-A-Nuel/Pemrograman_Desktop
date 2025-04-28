@@ -43,6 +43,8 @@ Partial Class Form1
         ToolStripMenuItem4 = New ToolStripMenuItem()
         ToolStripMenuItem5 = New ToolStripMenuItem()
         ToolStripMenuItem6 = New ToolStripMenuItem()
+        DeleteToolStripMenuItem = New ToolStripMenuItem()
+        RenameToolStripMenuItem = New ToolStripMenuItem()
         lblFind = New Label()
         cbFind = New ComboBox()
         txtExtension = New TextBox()
@@ -61,8 +63,6 @@ Partial Class Form1
         Label1 = New Label()
         lblInfo = New Label()
         tvDrive = New TreeView()
-        DeleteToolStripMenuItem = New ToolStripMenuItem()
-        RenameToolStripMenuItem = New ToolStripMenuItem()
         StatusStrip1.SuspendLayout()
         MenuStrip1.SuspendLayout()
         ContextMenuStrip1.SuspendLayout()
@@ -145,18 +145,18 @@ Partial Class Form1
         ' HelpToolStripMenuItem1
         ' 
         HelpToolStripMenuItem1.Name = "HelpToolStripMenuItem1"
-        HelpToolStripMenuItem1.Size = New Size(133, 26)
+        HelpToolStripMenuItem1.Size = New Size(224, 26)
         HelpToolStripMenuItem1.Text = "Help"
         ' 
         ' ToolStripMenuItem2
         ' 
         ToolStripMenuItem2.Name = "ToolStripMenuItem2"
-        ToolStripMenuItem2.Size = New Size(130, 6)
+        ToolStripMenuItem2.Size = New Size(221, 6)
         ' 
         ' AboutToolStripMenuItem
         ' 
         AboutToolStripMenuItem.Name = "AboutToolStripMenuItem"
-        AboutToolStripMenuItem.Size = New Size(133, 26)
+        AboutToolStripMenuItem.Size = New Size(224, 26)
         AboutToolStripMenuItem.Text = "About"
         ' 
         ' ImageList1
@@ -200,6 +200,18 @@ Partial Class Form1
         ToolStripMenuItem6.Name = "ToolStripMenuItem6"
         ToolStripMenuItem6.Size = New Size(280, 24)
         ToolStripMenuItem6.Text = "Copy Folder Path to Clipboard"
+        ' 
+        ' DeleteToolStripMenuItem
+        ' 
+        DeleteToolStripMenuItem.Name = "DeleteToolStripMenuItem"
+        DeleteToolStripMenuItem.Size = New Size(280, 24)
+        DeleteToolStripMenuItem.Text = "Delete"
+        ' 
+        ' RenameToolStripMenuItem
+        ' 
+        RenameToolStripMenuItem.Name = "RenameToolStripMenuItem"
+        RenameToolStripMenuItem.Size = New Size(280, 24)
+        RenameToolStripMenuItem.Text = "Rename"
         ' 
         ' lblFind
         ' 
@@ -342,18 +354,6 @@ Partial Class Form1
         tvDrive.SelectedImageIndex = 0
         tvDrive.Size = New Size(255, 191)
         tvDrive.TabIndex = 0
-        ' 
-        ' DeleteToolStripMenuItem
-        ' 
-        DeleteToolStripMenuItem.Name = "DeleteToolStripMenuItem"
-        DeleteToolStripMenuItem.Size = New Size(280, 24)
-        DeleteToolStripMenuItem.Text = "Delete"
-        ' 
-        ' RenameToolStripMenuItem
-        ' 
-        RenameToolStripMenuItem.Name = "RenameToolStripMenuItem"
-        RenameToolStripMenuItem.Size = New Size(280, 24)
-        RenameToolStripMenuItem.Text = "Rename"
         ' 
         ' Form1
         ' 

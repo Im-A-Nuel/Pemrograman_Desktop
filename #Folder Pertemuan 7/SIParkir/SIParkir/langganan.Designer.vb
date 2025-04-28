@@ -36,17 +36,17 @@ Partial Class langganan
         Me.btnHapus = New System.Windows.Forms.Button()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
-        Me.Label4 = New System.Windows.Forms.Label()
-        Me.lblId = New System.Windows.Forms.Label()
-        Me.cmbJenis = New System.Windows.Forms.ComboBox()
-        Me.DateTimePicker1 = New System.Windows.Forms.DateTimePicker()
-        Me.btnEdit = New System.Windows.Forms.Button()
         Me.id = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.no_plat = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.nama = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.biaya = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.jenis = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.expired = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.lblId = New System.Windows.Forms.Label()
+        Me.cmbJenis = New System.Windows.Forms.ComboBox()
+        Me.DateTimePicker1 = New System.Windows.Forms.DateTimePicker()
+        Me.btnEdit = New System.Windows.Forms.Button()
         Me.Panel1.SuspendLayout()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -184,6 +184,48 @@ Partial Class langganan
         Me.DataGridView1.Size = New System.Drawing.Size(755, 131)
         Me.DataGridView1.TabIndex = 29
         '
+        'id
+        '
+        Me.id.HeaderText = "id"
+        Me.id.MinimumWidth = 6
+        Me.id.Name = "id"
+        Me.id.Width = 125
+        '
+        'no_plat
+        '
+        Me.no_plat.HeaderText = "No Plat"
+        Me.no_plat.MinimumWidth = 6
+        Me.no_plat.Name = "no_plat"
+        Me.no_plat.Width = 125
+        '
+        'nama
+        '
+        Me.nama.HeaderText = "Nama Pemilik"
+        Me.nama.MinimumWidth = 6
+        Me.nama.Name = "nama"
+        Me.nama.Width = 125
+        '
+        'biaya
+        '
+        Me.biaya.HeaderText = "Biaya"
+        Me.biaya.MinimumWidth = 6
+        Me.biaya.Name = "biaya"
+        Me.biaya.Width = 125
+        '
+        'jenis
+        '
+        Me.jenis.HeaderText = "Jenis"
+        Me.jenis.MinimumWidth = 6
+        Me.jenis.Name = "jenis"
+        Me.jenis.Width = 125
+        '
+        'expired
+        '
+        Me.expired.HeaderText = "Expired"
+        Me.expired.MinimumWidth = 6
+        Me.expired.Name = "expired"
+        Me.expired.Width = 125
+        '
         'Label4
         '
         Me.Label4.AutoSize = True
@@ -226,48 +268,6 @@ Partial Class langganan
         Me.btnEdit.TabIndex = 34
         Me.btnEdit.Text = "Edit"
         Me.btnEdit.UseVisualStyleBackColor = True
-        '
-        'id
-        '
-        Me.id.HeaderText = "id"
-        Me.id.MinimumWidth = 6
-        Me.id.Name = "id"
-        Me.id.Width = 125
-        '
-        'no_plat
-        '
-        Me.no_plat.HeaderText = "No Plat"
-        Me.no_plat.MinimumWidth = 6
-        Me.no_plat.Name = "no_plat"
-        Me.no_plat.Width = 125
-        '
-        'nama
-        '
-        Me.nama.HeaderText = "Nama Pemilik"
-        Me.nama.MinimumWidth = 6
-        Me.nama.Name = "nama"
-        Me.nama.Width = 125
-        '
-        'biaya
-        '
-        Me.biaya.HeaderText = "Biaya"
-        Me.biaya.MinimumWidth = 6
-        Me.biaya.Name = "biaya"
-        Me.biaya.Width = 125
-        '
-        'jenis
-        '
-        Me.jenis.HeaderText = "Jenis"
-        Me.jenis.MinimumWidth = 6
-        Me.jenis.Name = "jenis"
-        Me.jenis.Width = 125
-        '
-        'expired
-        '
-        Me.expired.HeaderText = "Expired"
-        Me.expired.MinimumWidth = 6
-        Me.expired.Name = "expired"
-        Me.expired.Width = 125
         '
         'langganan
         '

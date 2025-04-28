@@ -2,7 +2,6 @@
 
 Public Class langganan
 
-
     Private Sub RefreshGrid()
         Dim i
         i = 0
@@ -26,7 +25,13 @@ Public Class langganan
                 DataGridView1.Item(2, i).Value = myDataReader("nama")
                 DataGridView1.Item(3, i).Value = myDataReader("biaya")
                 DataGridView1.Item(4, i).Value = myDataReader("jenis")
-                DataGridView1.Item(5, i).Value = myDataReader("expired")
+                If Not Convert.IsDBNull(myDataReader("expired")) Then
+                    DataGridView1.Item(5, i).Value = Convert.ToDateTime(myDataReader("expired")).ToString("yyyy-MM-dd")
+                Else
+                    DataGridView1.Item(5, i).Value = "-"
+                End If
+
+
                 i = i + 1
             End While
         End If
@@ -58,7 +63,13 @@ Public Class langganan
                 txtNama.Text = myDataReader("nama")
                 txtBiaya.Text = myDataReader("biaya")
                 cmbJenis.Text = myDataReader("jenis")
-                DateTimePicker1.Text = myDataReader("expired")
+                If Not Convert.IsDBNull(myDataReader("expired")) Then
+                    DateTimePicker1.Value = Convert.ToDateTime(myDataReader("expired"))
+                Else
+                    DateTimePicker1.Value = DateTime.Now
+                End If
+
+
             End While
         End If
         If myDataReader.IsClosed = False Then
@@ -196,4 +207,14 @@ Public Class langganan
             End If
         End If
     End Sub
+
+    Private Function SafeGetDate(reader As MySqlDataReader, columnName As String) As DateTime
+        If Not Convert.IsDBNull(reader(columnName)) Then
+            Return Convert.ToDateTime(reader(columnName))
+        Else
+            Return DateTime.Now
+        End If
+    End Function
+
+
 End Class

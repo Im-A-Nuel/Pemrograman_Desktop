@@ -298,7 +298,7 @@ Partial Class Form1
         TabPage2.Location = New Point(4, 29)
         TabPage2.Name = "TabPage2"
         TabPage2.Padding = New Padding(3)
-        TabPage2.Size = New Size(233, 273)
+        TabPage2.Size = New Size(233, 274)
         TabPage2.TabIndex = 1
         TabPage2.Text = "EXIF Metadata"
         TabPage2.UseVisualStyleBackColor = True

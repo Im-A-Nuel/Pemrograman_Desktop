@@ -39,12 +39,18 @@ Partial Class main
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
+        Me.no_plat = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.waktu_masuk = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.waktu_keluar = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.harga = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.jenis = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.id = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Panel2 = New System.Windows.Forms.Panel()
         Me.Panel3 = New System.Windows.Forms.Panel()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.lblTgl = New System.Windows.Forms.Label()
-        Me.Label7 = New System.Windows.Forms.Label()
+        Me.lblJam = New System.Windows.Forms.Label()
         Me.lblJmlKendaraan = New System.Windows.Forms.Label()
         Me.ContextMenuStrip1 = New System.Windows.Forms.ContextMenuStrip(Me.components)
         Me.Delete = New System.Windows.Forms.ToolStripMenuItem()
@@ -54,12 +60,7 @@ Partial Class main
         Me.txtPlat = New System.Windows.Forms.TextBox()
         Me.lblInfoUser = New System.Windows.Forms.Label()
         Me.lblInfoJenis = New System.Windows.Forms.Label()
-        Me.no_plat = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.waktu_masuk = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.waktu_keluar = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.harga = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.jenis = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.id = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
         Me.Panel1.SuspendLayout()
         Me.MenuStrip1.SuspendLayout()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -195,6 +196,50 @@ Partial Class main
         Me.DataGridView1.Size = New System.Drawing.Size(677, 247)
         Me.DataGridView1.TabIndex = 31
         '
+        'no_plat
+        '
+        Me.no_plat.HeaderText = "No Plat"
+        Me.no_plat.MinimumWidth = 6
+        Me.no_plat.Name = "no_plat"
+        Me.no_plat.Width = 125
+        '
+        'waktu_masuk
+        '
+        Me.waktu_masuk.HeaderText = "Masuk"
+        Me.waktu_masuk.MinimumWidth = 6
+        Me.waktu_masuk.Name = "waktu_masuk"
+        Me.waktu_masuk.Width = 125
+        '
+        'waktu_keluar
+        '
+        Me.waktu_keluar.HeaderText = "Keluar"
+        Me.waktu_keluar.MinimumWidth = 6
+        Me.waktu_keluar.Name = "waktu_keluar"
+        Me.waktu_keluar.Width = 125
+        '
+        'harga
+        '
+        Me.harga.HeaderText = "Harga"
+        Me.harga.MinimumWidth = 6
+        Me.harga.Name = "harga"
+        Me.harga.Width = 125
+        '
+        'jenis
+        '
+        Me.jenis.HeaderText = "Jenis"
+        Me.jenis.MinimumWidth = 6
+        Me.jenis.Name = "jenis"
+        Me.jenis.Width = 125
+        '
+        'id
+        '
+        Me.id.HeaderText = "Id"
+        Me.id.MinimumWidth = 6
+        Me.id.Name = "id"
+        Me.id.ReadOnly = True
+        Me.id.Visible = False
+        Me.id.Width = 125
+        '
         'Label4
         '
         Me.Label4.AutoSize = True
@@ -241,15 +286,15 @@ Partial Class main
         Me.lblTgl.TabIndex = 38
         Me.lblTgl.Text = "Tanggal : 12-12-2025"
         '
-        'Label7
+        'lblJam
         '
-        Me.Label7.AutoSize = True
-        Me.Label7.BackColor = System.Drawing.SystemColors.ActiveCaption
-        Me.Label7.Location = New System.Drawing.Point(173, 522)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(90, 16)
-        Me.Label7.TabIndex = 39
-        Me.Label7.Text = "Jam : 00:00:00"
+        Me.lblJam.AutoSize = True
+        Me.lblJam.BackColor = System.Drawing.SystemColors.ActiveCaption
+        Me.lblJam.Location = New System.Drawing.Point(198, 522)
+        Me.lblJam.Name = "lblJam"
+        Me.lblJam.Size = New System.Drawing.Size(90, 16)
+        Me.lblJam.TabIndex = 39
+        Me.lblJam.Text = "Jam : 00:00:00"
         '
         'lblJmlKendaraan
         '
@@ -287,11 +332,11 @@ Partial Class main
         'lblHarga
         '
         Me.lblHarga.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblHarga.Location = New System.Drawing.Point(164, 299)
+        Me.lblHarga.Location = New System.Drawing.Point(163, 295)
         Me.lblHarga.Name = "lblHarga"
         Me.lblHarga.Size = New System.Drawing.Size(162, 27)
         Me.lblHarga.TabIndex = 43
-        Me.lblHarga.Text = "Label9"
+        Me.lblHarga.Text = "Rp. 0"
         '
         'lblJenis
         '
@@ -303,9 +348,9 @@ Partial Class main
         '
         'txtPlat
         '
-        Me.txtPlat.Location = New System.Drawing.Point(167, 244)
+        Me.txtPlat.Location = New System.Drawing.Point(150, 244)
         Me.txtPlat.Name = "txtPlat"
-        Me.txtPlat.Size = New System.Drawing.Size(100, 22)
+        Me.txtPlat.Size = New System.Drawing.Size(117, 22)
         Me.txtPlat.TabIndex = 45
         '
         'lblInfoUser
@@ -324,50 +369,6 @@ Partial Class main
         Me.lblInfoJenis.Size = New System.Drawing.Size(0, 16)
         Me.lblInfoJenis.TabIndex = 47
         '
-        'no_plat
-        '
-        Me.no_plat.HeaderText = "No Plat"
-        Me.no_plat.MinimumWidth = 6
-        Me.no_plat.Name = "no_plat"
-        Me.no_plat.Width = 125
-        '
-        'waktu_masuk
-        '
-        Me.waktu_masuk.HeaderText = "Masuk"
-        Me.waktu_masuk.MinimumWidth = 6
-        Me.waktu_masuk.Name = "waktu_masuk"
-        Me.waktu_masuk.Width = 125
-        '
-        'waktu_keluar
-        '
-        Me.waktu_keluar.HeaderText = "Keluar"
-        Me.waktu_keluar.MinimumWidth = 6
-        Me.waktu_keluar.Name = "waktu_keluar"
-        Me.waktu_keluar.Width = 125
-        '
-        'harga
-        '
-        Me.harga.HeaderText = "Harga"
-        Me.harga.MinimumWidth = 6
-        Me.harga.Name = "harga"
-        Me.harga.Width = 125
-        '
-        'jenis
-        '
-        Me.jenis.HeaderText = "Jenis"
-        Me.jenis.MinimumWidth = 6
-        Me.jenis.Name = "jenis"
-        Me.jenis.Width = 125
-        '
-        'id
-        '
-        Me.id.HeaderText = "Id"
-        Me.id.MinimumWidth = 6
-        Me.id.Name = "id"
-        Me.id.ReadOnly = True
-        Me.id.Visible = False
-        Me.id.Width = 125
-        '
         'main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
@@ -380,7 +381,7 @@ Partial Class main
         Me.Controls.Add(Me.lblHarga)
         Me.Controls.Add(Me.lblPlat)
         Me.Controls.Add(Me.lblJmlKendaraan)
-        Me.Controls.Add(Me.Label7)
+        Me.Controls.Add(Me.lblJam)
         Me.Controls.Add(Me.lblTgl)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Panel2)
@@ -428,7 +429,7 @@ Partial Class main
     Friend WithEvents Panel3 As Panel
     Friend WithEvents Label5 As Label
     Friend WithEvents lblTgl As Label
-    Friend WithEvents Label7 As Label
+    Friend WithEvents lblJam As Label
     Friend WithEvents lblJmlKendaraan As Label
     Friend WithEvents ContextMenuStrip1 As ContextMenuStrip
     Friend WithEvents Delete As ToolStripMenuItem
@@ -444,4 +445,5 @@ Partial Class main
     Friend WithEvents harga As DataGridViewTextBoxColumn
     Friend WithEvents jenis As DataGridViewTextBoxColumn
     Friend WithEvents id As DataGridViewTextBoxColumn
+    Friend WithEvents Timer1 As Timer
 End Class

@@ -5,8 +5,7 @@ Imports File = System.IO.File
 
 Public Class Form1
 
-
-
+    ' Format ukuran file
     Private Function FormatFileSize(ByVal FileSizeBytes As Long) As String
         Dim sizeTypes() As String = {"b", "Kb", "Mb", "Gb"}
         Dim Len As Decimal = FileSizeBytes
@@ -20,7 +19,7 @@ Public Class Form1
         Return Resp
     End Function
 
-
+    ' Get Files untuk mendapatkan fille dalam folder
     Private Sub GetFiles(ByVal PathName As String)
         Dim LItem As ListViewItem
         lvFile.Items.Clear()
@@ -132,6 +131,7 @@ Public Class Form1
         Next
     End Sub
 
+    'Memanggil folder
     Private Sub GetFolders(ByVal PathName As TreeNode)
         Dim di As DirectoryInfo
         PathName.Nodes.Clear()
@@ -157,6 +157,7 @@ Public Class Form1
     End Sub
 
 
+    'Memanggil drive dan tampilkan di tree view
     Private Sub GetDrives()
 
         tvDrive.Nodes.Clear()
@@ -183,6 +184,7 @@ Public Class Form1
 
     End Sub
 
+    ' Form Load dan memanggil drive
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         GetDrives()
         For i As Integer = 0 To lvFile.Columns.Count - 1
@@ -197,10 +199,12 @@ Public Class Form1
         Next
     End Sub
 
+    ' Sebelum pilih drive, getFolder dulu
     Private Sub tvDrive_BeforeExpand(sender As System.Object, e As System.Windows.Forms.TreeViewCancelEventArgs) Handles tvDrive.BeforeExpand
         GetFolders(e.Node)
     End Sub
 
+    ' setelah pilih drive, getFiles unutk menampilkan di list view
     Private Sub tvDrive_AfterSelect(sender As Object, e As TreeViewEventArgs) Handles tvDrive.AfterSelect
         Dim tNode As TreeNode = tvDrive.SelectedNode
         GetFiles(e.Node.Tag)
