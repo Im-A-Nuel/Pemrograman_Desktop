@@ -6,4 +6,4 @@ Repository ini berisi kumpulan tugas, latihan, dan proyek akhir dari mata kuliah
 ## 👤 Pemilik Repository
 
 **Nama:** Imanuel Putra  
-**NIM:** *(71220927)*  
+**NIM:** *71220927*  
