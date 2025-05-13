@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class frmUtama
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class frmUtama
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.OpenFileDialog1 = New System.Windows.Forms.OpenFileDialog()
@@ -46,6 +46,15 @@ Partial Class frmUtama
         Me.FlipHorzontalToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.FlipVertikalToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.UjiKernel3x3ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Tugas3ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.BorderToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.WatermarkToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.InversiWarnaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.RonaMerahToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.RonaHijauToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.RonaBiruToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.RonaSpesialToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.HistogramToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
@@ -66,7 +75,7 @@ Partial Class frmUtama
         'MenuStrip1
         '
         Me.MenuStrip1.ImageScalingSize = New System.Drawing.Size(20, 20)
-        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.FileToolStripMenuItem, Me.HistogramToolStripMenuItem, Me.EfekToolStripMenuItem})
+        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.FileToolStripMenuItem, Me.HistogramToolStripMenuItem, Me.EfekToolStripMenuItem, Me.Tugas3ToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
         Me.MenuStrip1.Size = New System.Drawing.Size(723, 28)
@@ -157,8 +166,8 @@ Partial Class frmUtama
         '
         Me.EfekToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TajamkanToolStripMenuItem, Me.KaburkanToolStripMenuItem, Me.PutarToolStripMenuItem, Me.FlipHorzontalToolStripMenuItem, Me.FlipVertikalToolStripMenuItem, Me.UjiKernel3x3ToolStripMenuItem})
         Me.EfekToolStripMenuItem.Name = "EfekToolStripMenuItem"
-        Me.EfekToolStripMenuItem.Size = New System.Drawing.Size(51, 24)
-        Me.EfekToolStripMenuItem.Text = "Efek"
+        Me.EfekToolStripMenuItem.Size = New System.Drawing.Size(67, 24)
+        Me.EfekToolStripMenuItem.Text = "Effects"
         '
         'TajamkanToolStripMenuItem
         '
@@ -195,6 +204,61 @@ Partial Class frmUtama
         Me.UjiKernel3x3ToolStripMenuItem.Name = "UjiKernel3x3ToolStripMenuItem"
         Me.UjiKernel3x3ToolStripMenuItem.Size = New System.Drawing.Size(224, 26)
         Me.UjiKernel3x3ToolStripMenuItem.Text = "Gaussian Blur"
+        '
+        'Tugas3ToolStripMenuItem
+        '
+        Me.Tugas3ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.BorderToolStripMenuItem, Me.WatermarkToolStripMenuItem, Me.InversiWarnaToolStripMenuItem, Me.RonaMerahToolStripMenuItem, Me.RonaHijauToolStripMenuItem, Me.RonaBiruToolStripMenuItem, Me.RonaSpesialToolStripMenuItem, Me.HistogramToolStripMenuItem1})
+        Me.Tugas3ToolStripMenuItem.Name = "Tugas3ToolStripMenuItem"
+        Me.Tugas3ToolStripMenuItem.Size = New System.Drawing.Size(74, 24)
+        Me.Tugas3ToolStripMenuItem.Text = "Tugas 3"
+        '
+        'BorderToolStripMenuItem
+        '
+        Me.BorderToolStripMenuItem.Name = "BorderToolStripMenuItem"
+        Me.BorderToolStripMenuItem.Size = New System.Drawing.Size(224, 26)
+        Me.BorderToolStripMenuItem.Text = "Border"
+        '
+        'WatermarkToolStripMenuItem
+        '
+        Me.WatermarkToolStripMenuItem.Name = "WatermarkToolStripMenuItem"
+        Me.WatermarkToolStripMenuItem.Size = New System.Drawing.Size(224, 26)
+        Me.WatermarkToolStripMenuItem.Text = "Watermark"
+        '
+        'InversiWarnaToolStripMenuItem
+        '
+        Me.InversiWarnaToolStripMenuItem.Name = "InversiWarnaToolStripMenuItem"
+        Me.InversiWarnaToolStripMenuItem.Size = New System.Drawing.Size(224, 26)
+        Me.InversiWarnaToolStripMenuItem.Text = "Inversi Warna"
+        '
+        'RonaMerahToolStripMenuItem
+        '
+        Me.RonaMerahToolStripMenuItem.Name = "RonaMerahToolStripMenuItem"
+        Me.RonaMerahToolStripMenuItem.Size = New System.Drawing.Size(224, 26)
+        Me.RonaMerahToolStripMenuItem.Text = "Rona Merah"
+        '
+        'RonaHijauToolStripMenuItem
+        '
+        Me.RonaHijauToolStripMenuItem.Name = "RonaHijauToolStripMenuItem"
+        Me.RonaHijauToolStripMenuItem.Size = New System.Drawing.Size(224, 26)
+        Me.RonaHijauToolStripMenuItem.Text = "Rona Hijau"
+        '
+        'RonaBiruToolStripMenuItem
+        '
+        Me.RonaBiruToolStripMenuItem.Name = "RonaBiruToolStripMenuItem"
+        Me.RonaBiruToolStripMenuItem.Size = New System.Drawing.Size(224, 26)
+        Me.RonaBiruToolStripMenuItem.Text = "Rona Biru"
+        '
+        'RonaSpesialToolStripMenuItem
+        '
+        Me.RonaSpesialToolStripMenuItem.Name = "RonaSpesialToolStripMenuItem"
+        Me.RonaSpesialToolStripMenuItem.Size = New System.Drawing.Size(224, 26)
+        Me.RonaSpesialToolStripMenuItem.Text = "Rona Spesial"
+        '
+        'HistogramToolStripMenuItem1
+        '
+        Me.HistogramToolStripMenuItem1.Name = "HistogramToolStripMenuItem1"
+        Me.HistogramToolStripMenuItem1.Size = New System.Drawing.Size(224, 26)
+        Me.HistogramToolStripMenuItem1.Text = "Histogram  Balok"
         '
         'frmUtama
         '
@@ -239,4 +303,13 @@ Partial Class frmUtama
     Friend WithEvents FlipHorzontalToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents FlipVertikalToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents UjiKernel3x3ToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Tugas3ToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents BorderToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents WatermarkToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents InversiWarnaToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents RonaMerahToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents RonaHijauToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents RonaBiruToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents RonaSpesialToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents HistogramToolStripMenuItem1 As ToolStripMenuItem
 End Class
