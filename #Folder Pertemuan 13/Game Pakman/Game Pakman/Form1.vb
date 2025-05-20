@@ -3,7 +3,6 @@ Imports System.Windows.Forms
 
 Public Class Form1
 
-    ' Map diperluas, contoh 15x15 (boleh sesuaikan)
     Dim map = {
         {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
         {0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0},
@@ -22,10 +21,8 @@ Public Class Form1
         {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
     }
 
-    ' Ukuran tile tetap
     Dim tsz = 30
 
-    ' Posisi pakman
     Dim pacx = 1
     Dim pacy = 1
 
@@ -75,7 +72,6 @@ Public Class Form1
     Dim goal As Image = Image.FromFile("..\..\..\aset_game_pakman\omah.jpg")
     Dim hearth As Image = Image.FromFile("..\..\..\aset_game_pakman\heart.png")
 
-    ' Random generator
     Dim rndGen As New Random()
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
